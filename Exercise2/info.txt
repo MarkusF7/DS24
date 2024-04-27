@@ -1,0 +1,23 @@
+Q1: Write 2 python function to get the indices of the sorted elements of given lists and compare the speed. one is without numpy package and the other is with numpy. (raise a error message if the input is null or not numerical) -- 13pt
+
+List 1: [23, 104, 5, 190, 8, 7, -3]
+List 2 : []
+List 3 : random generate 1000000 integers 
+
+
+Q2: Do the following exercise in a Jupyter Notebook (a GitHub Link would be the best): -- 12pt
+
+Load the countries.csv directly via URL import into your panda data frame!
+Display descriptive statistics for the numerical column (count, mean, std, min, 25%, 50%, 75%, max) HINT: describe
+Show the last 4 rows of the data frame.
+Show all the rows of countries that have the EURO
+Show only name and Currency in a new data frame
+Show only the rows/countries that have more than 2000 GDP (it is in Milliarden USD Bruttoinlandsprodukt)
+Select all countries where with inhabitants between 50 and 150 Mio
+Calculate the GDP average (ignore the missing value)
+Calculate the GDP average (missing value treated as 0)
+Calculate the population density (population/area)  of all countries and add as new column
+Sort by country name alphabetically
+Create a new data frame from the original where the area is changed: all countries with > 1000000 get BIG and <= 1000000 get SMALL in the cell replaced!
+
+
